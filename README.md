@@ -1,4 +1,4 @@
-# ustempmap
+# US Temperature Map
 Map of U.S. Historical Temperatures
 
 
